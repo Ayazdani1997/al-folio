@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7abc8db5-b0da-4696-a447-c85489e34583" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_courses/computer-systems-2022.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_courses/computer-systems-fall-TA-2021.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_courses/cs2506-summer-TA-2021.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_courses/cs3114-summer-TA-2022.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/figure_inline.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_news_backup/announcement_1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/ahmad.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/icon-class.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/icon-student.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/icon-university.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/pdf/ahmadyazdani-cv.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_bibliography/papers.bib" beforeDir="false" afterPath="$PROJECT_DIR$/_bibliography/papers.bib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/coauthors.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/coauthors.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/cv.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/cv.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/venues.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/venues.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_news/announcement_1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_news/announcement_1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_news/announcement_2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_news_backup/announcement_2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_news/announcement_3.md" beforeDir="false" afterPath="$PROJECT_DIR$/_news_backup/announcement_3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/cv.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/cv.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/dropdown.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/projects.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/publications.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/publications.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/repositories.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/teaching.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/teaching.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-03-15-formatting-and-links.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts_backup/2015-03-15-formatting-and-links.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-05-15-images.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts_backup/2015-05-15-images.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-07-15-code.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts_backup/2015-07-15-code.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-10-20-disqus-comments.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts_backup/2015-10-20-disqus-comments.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-10-20-math.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts_backup/2015-10-20-math.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-12-22-distill.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts_backup/2018-12-22-distill.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-09-28-github-metadata.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts_backup/2020-09-28-github-metadata.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-09-28-twitter.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts_backup/2020-09-28-twitter.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-07-04-diagrams.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts_backup/2021-07-04-diagrams.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2022-02-01-redirect.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts_backup/2022-02-01-redirect.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2022-12-10-giscus-comments.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts_backup/2022-12-10-giscus-comments.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_projects/1_project.md" beforeDir="false" afterPath="$PROJECT_DIR$/_projects_backup/1_project.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_projects/2_project.md" beforeDir="false" afterPath="$PROJECT_DIR$/_projects_backup/2_project.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_projects/3_project.md" beforeDir="false" afterPath="$PROJECT_DIR$/_projects_backup/3_project.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_projects/4_project.md" beforeDir="false" afterPath="$PROJECT_DIR$/_projects_backup/4_project.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_projects/5_project.md" beforeDir="false" afterPath="$PROJECT_DIR$/_projects_backup/5_project.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_projects/6_project.md" beforeDir="false" afterPath="$PROJECT_DIR$/_projects_backup/6_project.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pdf/example_pdf.pdf" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2M5BR905IG71fbfYJSD5dKiYrtN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_courses" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_courses" />
+      <recent name="$PROJECT_DIR$/assets/img" />
+      <recent name="$PROJECT_DIR$/_includes" />
+      <recent name="$PROJECT_DIR$/assets/pdf" />
+      <recent name="$PROJECT_DIR$/_news" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_bibliography" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7abc8db5-b0da-4696-a447-c85489e34583" name="Default Changelist" comment="" />
+      <created>1677047551830</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677047551830</updated>
+      <workItem from="1677047553167" duration="1077000" />
+      <workItem from="1677351231277" duration="3603000" />
+      <workItem from="1677379086391" duration="10407000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="243" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1677380896933">
+      <screen x="0" y="25" width="1440" height="824" />
+    </state>
+    <state x="413" y="243" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1440.824@0.25.1440.824" timestamp="1677380896933" />
+    <state x="459" y="188" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1677383393631">
+      <screen x="0" y="25" width="1440" height="824" />
+    </state>
+    <state x="459" y="188" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1440.824@0.25.1440.824" timestamp="1677383393631" />
+    <state x="421" y="192" width="597" height="490" key="find.popup" timestamp="1677388367730">
+      <screen x="0" y="25" width="1440" height="824" />
+    </state>
+    <state x="421" y="192" width="597" height="490" key="find.popup/0.25.1440.824@0.25.1440.824" timestamp="1677388367730" />
+  </component>
+</project>

@@ -1,12 +1,45 @@
 ---
 layout: page
-permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+rank: 40
+permalink: /courses/
+description: My selected teaching experiences, including the courses I either teached or TAed. Refer to my CV for more information
 nav: true
-nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+<div class="news">
+  {% if site.courses != blank -%} 
+    <div class="table-responsive">
+      <table class="table table-sm table-borderless">
+      {%- assign courses = site.courses | sort: "date" | reverse -%}
+      {% for item in courses -%} 
+        <tr align="left">
+          <th scope="row">
+            <h6><abbr class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
+              {{ item.semester }}
+            </abbr></h6>
+          </th>
+          <td>
+            <h5> {{ item.name }} </h5>
+            🏫  {{ item.university }} <br>
+            📌  {{ item.role}} <br>
+            📚  {% for id in item.course_id %} 
+                  {% if forloop.last %}
+                    {{ id }}
+                  {% else %}
+                    {{ id }}, 
+                  {% endif %}
+                {% endfor %} <br>
+            🧑‍🎓  {{ item.audience }} <br>
+            {{ item.comment }} <br>
+          </td>
+        </tr>
+      {%- endfor %} 
+      </table>
+    </div>
+  {%- else -%} 
+    <p>No courses provided...</p>
+  {%- endif %} 
+</div>
 
-Organize your courses by years, topics, or universities, however you like!
+
