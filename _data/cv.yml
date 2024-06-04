@@ -52,14 +52,13 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2022
-      items:
-        - Being appointed as the student volunteer for SC22 hosted in Dallas, TX, US
-    - year: 2023
-      items:
-        - Being appointed as the student volunteer for SC23 hosted in Denver, CO, US
     - year: 2024
       items:
         - Was awarded travel support by USENIX for USENIX FAST'24 conference in Santa Clara, CA, US
         - Had a poster at IPDPS24 PhD forum about our I/O interference characterization project with Berkeley Lab (LBNL). I was also awarded travel support by TCPP for IPDPS24.
-
+    - year: 2023
+      items:
+        - Being appointed as the student volunteer for SC23 hosted in Denver, CO, US
+    - year: 2022
+      items:
+        - Being appointed as the student volunteer for SC22 hosted in Dallas, TX, US
