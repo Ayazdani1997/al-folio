@@ -30,7 +30,7 @@
       institution: Lawrence Berkeley National Laboratory (LBNL)
       year: 2024
       description:
-        - Will work on investigating the pitfalls and common behaviors producing I/O hotspots in the HPC applications' I/O performance under the supervision of Stephen Simms, Lisa Gerhardt and Jean Luca Bez.
+        - I investigated the causes of I/O hotspots in HPC applications and analyzed common performance issues. Specifically, I examined Drishti, an HPC I/O recommendation tool, and found it generates many false positive warnings. In future work, I plan to address these inaccuracies, enhance Drishti's ability to provide more reliable I/O optimization recommendations, and improve its capacity to predict job performance based on suggested configurations.
     - title: Student Assistant at Lawrence Berkeley National Laboratory (LBNL), internship
       institution: Lawrence Berkeley National Laboratory (LBNL)
       year: 2023
